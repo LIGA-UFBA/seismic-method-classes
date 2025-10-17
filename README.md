@@ -6,7 +6,7 @@ This repository contains the Devito notebooks used in the "GEO208 - Seismic Meth
 
 To run the notebooks, it is necessary to have the [GeoSymCodes' Devito](https://github.com/GeoSymCodes/devito) and the Jupyter Notebook packages installed.
 
-You can follow the instructions on the link above to install Devito. You can run the following command in your terminal under the conda environment you created in the step above to install Jupyter Notebook
+You can follow the instructions on the link above to install Devito. You can run the following command in your terminal under the conda environment you created in the previous step to install Jupyter Notebook
 
     pip install notebook
 
