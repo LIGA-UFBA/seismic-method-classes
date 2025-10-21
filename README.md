@@ -24,7 +24,7 @@ To run the notebooks, it is necessary to have the [GeoSymCodes' Devito](https://
         > cd devito
         > pip install "codepy<2025.1"
         > pip install -e .[extras,tests]
-        > pip install -3 .
+        > pip install -e .
         > pip install notebook
 
 With, Devito and Jupyter Notebook should be installed in your computer under the environment "devito". You can test if everything worked by going back to this folder through your terminal, launching Jupyter Notebook by executing
