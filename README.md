@@ -8,7 +8,7 @@ To run the notebooks, it is necessary to have the [GeoSymCodes' Devito](https://
 
 ### Devito installation guide
 
->It is recommended to install Devito under a Conda or Virtualenv environment. This guide assumes the user will use a Conda environment.
+>It is recommended to install Devito under an environment management system, like Conda or Virtualenv. This guide assumes the user will use a Conda environment.
 
 1. Create a conda environment with python>=3.10 
 
@@ -31,4 +31,4 @@ With this, Devito and Jupyter Notebook should be installed in your computer unde
 
     jupyter notebook
 
-in this folder. And running of of the notebooks.
+in this folder and running one of the notebooks.
